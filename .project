@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>parcelSystem</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/parcelSystem/Custs.csv</name>
+			<type>1</type>
+			<location>C:/Users/stefa/Downloads/Custs.csv</location>
+		</link>
+		<link>
+			<name>src/parcelSystem/Parcels.csv</name>
+			<type>1</type>
+			<location>C:/Users/stefa/Downloads/Parcels.csv</location>
+		</link>
+	</linkedResources>
+</projectDescription>

@@ -1,0 +1,13 @@
+Processed Parcels
+
+Parcel ID: X919, Dimensions: 5x8x7, Weight: 4kg, Days in Depot: 10, Collected: true, Collection Fee: £1.2
+Parcel ID: X064, Dimensions: 8x4x1, Weight: 8kg, Days in Depot: 15, Collected: true, Collection Fee: £0.9
+Parcel ID: X682, Dimensions: 3x6x4, Weight: 4kg, Days in Depot: 12, Collected: true, Collection Fee: £1.2
+Parcel ID: X780, Dimensions: 4x1x2, Weight: 5kg, Days in Depot: 12, Collected: true, Collection Fee: £1.2
+Parcel ID: X782, Dimensions: 5x3x2, Weight: 7kg, Days in Depot: 12, Collected: true, Collection Fee: £0.9
+Parcel ID: X316, Dimensions: 9x5x4, Weight: 0kg, Days in Depot: 11, Collected: true, Collection Fee: £1.2
+Parcel ID: X278, Dimensions: 5x3x1, Weight: 0kg, Days in Depot: 11, Collected: true, Collection Fee: £1.2
+Parcel ID: X720, Dimensions: 4x2x1, Weight: 3kg, Days in Depot: 8, Collected: true, Collection Fee: £1.2
+Parcel ID: X475, Dimensions: 4x3x8, Weight: 1kg, Days in Depot: 11, Collected: true, Collection Fee: £1.2
+Parcel ID: X386, Dimensions: 9x1x6, Weight: 5kg, Days in Depot: 9, Collected: true, Collection Fee: £1.2
+Parcel ID: X857, Dimensions: 2x6x6, Weight: 3kg, Days in Depot: 9, Collected: true, Collection Fee: £1.2
