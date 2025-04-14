@@ -71,5 +71,4 @@ The GUI is implemented using **Java Swing** and includes:
 - **Fee Calculation**:
   - Implemented in a testable `calculateFee()` method in the `Worker` class
 
-## 📂 Folder Structure
 
